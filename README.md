@@ -140,15 +140,16 @@ npm run serve
 
 在开发环境的 application-dev.yml 配置文件中，配置 MySQL 数据库连接信息、Redis 缓存、网站初始化图片位置。
 
-![QQ截图20230913194429](C:\Users\昭晞\Desktop\yun\wxql-nav-images\QQ截图20230913194429.png)
+![QQ截图20230913194429](https://github.com/zhaoxi7109/wxql-nav/assets/100826349/bcb743d9-63d8-488e-90df-4b10b877226a)
 
-![QQ截图20230913194455](C:\Users\昭晞\Desktop\yun\wxql-nav-images\QQ截图20230913194455.png)
+![QQ截图20230913194455](https://github.com/zhaoxi7109/wxql-nav/assets/100826349/63090dc6-25f3-4f39-a691-e06745984693)
 
-![QQ截图20230913194510](C:\Users\昭晞\Desktop\yun\wxql-nav-images\QQ截图20230913194510.png)
+![QQ截图20230913194510](https://github.com/zhaoxi7109/wxql-nav/assets/100826349/8b7670b9-67a9-48c2-ab04-f0f542da443b)
+
 
 **注：** 需要把目录【网站图片】下的 profile.zip 解压到配置文件的文件路径中，否则内置的网站数据加载不出图片。比如我的是：`D:/myproject/wxql-nav/images`，解压后的文件路径如图所示，如果网站图片加载失败，请检查图片路径是否正确。
 
-![QQ截图20230913194738](C:\Users\昭晞\Desktop\yun\wxql-nav-images\QQ截图20230913194738.png)
+![QQ截图20230913194738](https://github.com/zhaoxi7109/wxql-nav/assets/100826349/9daaa326-c5a5-4273-9341-52341a7152e8)
 
 **生产环境**
 
@@ -166,21 +167,19 @@ npm run serve
 
 各导航的小组件
 
-![QQ截图20230913193823](C:\Users\昭晞\Desktop\yun\wxql-nav-images\QQ截图20230913193823.png)
+![QQ截图20230913193823](https://github.com/zhaoxi7109/wxql-nav/assets/100826349/2feb4e0d-b906-483a-a072-f29d8a85963a)
 
 编辑个人展示资料
+![QQ截图20230913193849](https://github.com/zhaoxi7109/wxql-nav/assets/100826349/af102c0b-2027-4cbd-83be-bb559f7f888c)
 
-![QQ截图20230913193849](C:\Users\昭晞\Desktop\yun\wxql-nav-images\QQ截图20230913193849.png)
+![QQ截图20230913193910](https://github.com/zhaoxi7109/wxql-nav/assets/100826349/5161e73f-c2dc-4873-9d06-832c390662e5)
 
-![QQ截图20230913193910](C:\Users\昭晞\Desktop\yun\wxql-nav-images\QQ截图20230913193910.png)
 
 修改个人信息
+![QQ截图20230913193923](https://github.com/zhaoxi7109/wxql-nav/assets/100826349/35f2f4f7-1c3c-4b40-9bc5-b5ec6637f4cb)
 
-![QQ截图20230913193923](C:\Users\昭晞\Desktop\yun\wxql-nav-images\QQ截图20230913193923.png)
-
-![QQ截图20230913193940](C:\Users\昭晞\Desktop\yun\wxql-nav-images\QQ截图20230913193940.png)
-
-![QQ截图20230913193953](C:\Users\昭晞\Desktop\yun\wxql-nav-images\QQ截图20230913193953.png)
+![QQ截图20230913193940](https://github.com/zhaoxi7109/wxql-nav/assets/100826349/f48517a0-eb79-4859-908d-a551b89fb552)
+![QQ截图20230913193953](https://github.com/zhaoxi7109/wxql-nav/assets/100826349/c0cc47c2-71bc-4ed5-bc29-a01a794b9386)
 
 ## 项目部署
 
